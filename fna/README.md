@@ -1,5 +1,5 @@
 #
-For the PRokka annotated data, you can access the genomic data using the link below. The genomic sequnences are the same as those in GenBank (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500).
+For the Prokka annotated data, you can access the genomic data using the link below. The genomic sequnences are the same as those in GenBank (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500).
 
 https://zenodo.org/records/10048320
 
