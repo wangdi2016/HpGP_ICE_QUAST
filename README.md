@@ -27,7 +27,7 @@ These results highlight the **regional adaptation and evolutionary differentiati
 
 ---
 
-## Methods (Optional)
+## Methods
 - **Tool:** QUAST (Quality Assessment Tool for Genome Assemblies)  
 - **Input:** Assembled ICE contigs from 166 *H. pylori* genomes  
 - **References:**  
