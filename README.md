@@ -1,4 +1,4 @@
-# HpGP_ICE_Quast
+# HpGP_ICE_QUAST
 
 ## Overview
 This repository summarizes the comparative assembly quality assessment of *Helicobacter pylori* genomic sequences (**HpGP**) using **QUAST**.  
