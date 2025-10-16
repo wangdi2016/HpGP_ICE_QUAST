@@ -19,7 +19,7 @@ With the East Asian reference *F16*, only strains from East Asia (Japan, China, 
 
 <img width="472" height="257" alt="image" src="https://github.com/user-attachments/assets/61c563bb-fd2b-44a6-9e26-61f3220e6ebd" />
 
-### 3. *SouthAfrica20* (Africa2)
+### 3. *SouthAfrica20* (Africa2) https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000590775.1/
 Using the African reference *SouthAfrica20*, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**.  
 This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations.
 
