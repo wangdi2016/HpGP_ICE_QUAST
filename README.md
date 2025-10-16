@@ -9,8 +9,8 @@ The goal of this analysis is to evaluate genome fraction among *H. pylori* strai
 ## Reference Genomes and Comparative Results
 
 ### 1. *Hp 26695* (Europe) https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008525.1/
-Using the European reference genome *Hp 26695*, high genome alignment quality was observed mainly among European-origin strains. Only 15 strains showing here in the table. 
-Strains from other regions exhibited substantially lower genome fractions, indicating clear sequence divergence from the European lineage.
+Using the European reference genome *Hp 26695*, high genome alignment quality was observed mainly among European-origin strains.
+Strains from other regions exhibited substantially lower genome fractions, indicating clear sequence divergence from the European lineage. Only 15 strains showing here in the table. 
 
 <img width="471" height="257" alt="image" src="https://github.com/user-attachments/assets/ca1d8b13-5f90-44c0-9f71-8917b50601cd" />
 
