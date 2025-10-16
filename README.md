@@ -14,7 +14,7 @@ Strains from other regions exhibited substantially lower genome fractions, indic
 
 <img width="471" height="257" alt="image" src="https://github.com/user-attachments/assets/ca1d8b13-5f90-44c0-9f71-8917b50601cd" />
 
-### 2. *F16* (East Asia)
+### 2. *F16* (East Asia) https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000270005.1/
 With the East Asian reference *F16*, only strains from East Asia (Japan, China, Korea, Singapore) achieved **>90% genome fraction**, reflecting strong sequence conservation within the East Asian cluster.  
 
 <img width="472" height="257" alt="image" src="https://github.com/user-attachments/assets/61c563bb-fd2b-44a6-9e26-61f3220e6ebd" />
