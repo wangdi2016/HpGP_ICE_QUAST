@@ -65,6 +65,14 @@ These results highlight the **regional adaptation and evolutionary differentiati
 
 ---
 
+### H. pylori Genome Project (HpGP)
+- **Publication:** Kaisa Thorell *et al.*  
+  *The Helicobacter pylori Genome Project: insights into H. pylori population structure from analysis of a worldwide collection of complete genomes*  
+  *Nature Communications* **14**, 8184 (2023)
+- **Database:** GenBank (1012 HpGP sequence deposited)
+
+---
+
 ## Citation
 If you use this dataset or analysis summary, please cite:
 - Andrés Julián Gutiérrez-Escobar *et al.*
