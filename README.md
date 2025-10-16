@@ -1,38 +1,72 @@
 # HpGP_ICE_Quast
 
-## Hp 26695 (Europe) as reference
+## Overview
+This repository summarizes the comparative assembly quality assessment of *Helicobacter pylori* genomic sequences (**HpGP**) using **QUAST**.  
+The goal of this analysis is to evaluate genome fraction among *H. pylori* strains from different geographic origins, using published representative reference genomes from **Europe**, **East Asia**, and **Africa2**.
 
-After running Quast, we got the following table 
+---
 
-<img width="447" height="241" alt="image" src="https://github.com/user-attachments/assets/33228ebf-33cd-4b1c-8a5c-fe76a61d400b" />
+## Reference Genomes and Comparative Results
 
-## F16 (East Asia) as reference
+### 1. *Hp 26695* (Europe)
+Using the European reference genome *Hp 26695*, high genome alignment quality was observed mainly among European-origin strains.  
+Strains from other regions exhibited substantially lower genome fractions, indicating clear sequence divergence from the European lineage.
 
-After running Quast, we got the table (see xxx) indicating 166 strains from Japan, China, Korea, Singapore etc in East Asia are the only
-strains with %Genome fraction > 90%.  
+### 2. *F16* (East Asia)
+With the East Asian reference *F16*, only strains from East Asia (Japan, China, Korea, Singapore) achieved **>90% genome fraction**, reflecting strong sequence conservation within the East Asian cluster.  
 
-<img width="472" height="209" alt="image" src="https://github.com/user-attachments/assets/e6ea368a-bb85-47c5-a5cc-c947e73d442c" />
+### 3. *SouthAfrica20* (Africa2)
+Using the African reference *SouthAfrica20*, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**.  
+This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations.
 
-## SouthAfrica20 (Africa2) as reference
+---
 
-After running Quast, we got the following table indicating HpGP-ZAF-001, HpGP-ZAF-007, HpGP-ZAF-006, HpGP-ZAF-009 are the only
-four strains with %Genome fraction > 80%.  
+## Conclusion
+Comparative analyses with QUAST demonstrate clear **geographic clustering and sequence divergence** across *H. pylori* populations from Europe, East Asia, and Africa.  
+These results highlight the **regional adaptation and evolutionary differentiation** of genomic sequences, reflecting the co-evolution between *H. pylori* and its human host populations.
 
-<img width="448" height="177" alt="image" src="https://github.com/user-attachments/assets/64842df4-6a93-4feb-b662-5f6712290b3a" />
+---
 
-## Note
+## Methods (Optional)
+- **Tool:** QUAST (Quality Assessment Tool for Genome Assemblies)  
+- **Input:** Assembled ICE contigs from 166 *H. pylori* genomes  
+- **References:**  
+  - *Hp 26695* (Europe)  
+  - *F16* (East Asia)  
+  - *SouthAfrica20* (Africa2)  
+- **Metric Reported:** % Genome fraction aligned to each reference genome  
 
-1. F16 was published and deposited in GenBank database.
+---
 
-Mikihiko Kawai et al. Evolution in an oncogenic bacterial species with extreme genome plasticity: Helicobacter pyloriEast Asian genomes
-BMC Microbiology volume 11, Article number: 104 (2011)
+## Reference Genomes and Publications
 
-2. SouthAfrica20 was published and deposited in GenBank database.
+### F16
+- **Publication:** Mikihiko Kawai *et al.*  
+  *Evolution in an oncogenic bacterial species with extreme genome plasticity: Helicobacter pylori East Asian genomes*  
+  *BMC Microbiology* **11**, Article 104 (2011)  
+- **Database:** GenBank (F16 strain sequence deposited)
 
-Stacy S Duncan et al. Genome Sequences of Three hpAfrica2 Strains of Helicobacter pylori
-Genome Announc. 2013 Sep 26;1(5):e00729-13. doi: 10.1128/genomeA.00729-13
+---
 
-3. H. pylori 26695 was published and deposited in GenBank database.
+### SouthAfrica20
+- **Publication:** Stacy S. Duncan *et al.*  
+  *Genome Sequences of Three hpAfrica2 Strains of Helicobacter pylori*  
+  *Genome Announcements* **1**(5): e00729-13 (2013)  
+  DOI: [10.1128/genomeA.00729-13](https://doi.org/10.1128/genomeA.00729-13)  
+- **Database:** GenBank (SouthAfrica20 strain sequence deposited)
 
-Tomb F. et al. The complete genome sequence of the gastric pathogen Helicobacter pylori
-Nature, 388, 539–547 (1997)
+---
+
+### H. pylori 26695
+- **Publication:** Tomb F. *et al.*  
+  *The complete genome sequence of the gastric pathogen Helicobacter pylori*  
+  *Nature* **388**, 539–547 (1997)  
+- **Database:** GenBank (26695 strain sequence deposited)
+
+---
+
+## Citation
+If you use this dataset or analysis summary, please cite: 
+Andrés Julián Gutiérrez-Escobar *et al.* Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture (2025)
+
+
