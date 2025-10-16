@@ -44,7 +44,7 @@ These results highlight the **regional adaptation and evolutionary differentiati
 
 ---
 
-## Reference Genomes and Publications
+## Reference Genomes, HpGP Genomic Sequences and Publications
 
 ### F16
 - **Publication:** Mikihiko Kawai *et al.*  
