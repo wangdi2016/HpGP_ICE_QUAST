@@ -12,7 +12,7 @@ For the assembly quality assessment of *de novo* genomic sequences, please check
 ## Reference Genomes and Comparative Results
 
 ### 1. *Hp 26695* (Europe)
-Using the European reference genome *Hp 26695* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008525.1/)**, high genome alignment quality was observed mainly among European-origin strains. Our *de novo* assembled Hp 26695 is **100%** in term of genome fraction. Using variant calling pipeline, we only identified ~130 SNPs between the publish Hp 26695 and our HpGP-26695-ATCC **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_034695665.1/)**. In addition, only one structural variant obsersved indicating the excellent agreement between these two sequences.
+Using the European reference genome *Hp 26695* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008525.1/)**, high genome alignment quality was observed mainly among European-origin strains. Our *de novo* assembled Hp 26695 is **100%** in term of genome fraction. Using variant calling pipeline, we only identified ~130 SNPs between the publish *Hp 26695* and our HpGP-26695-ATCC **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_034695665.1/)**. In addition, only one structural variant obsersved indicating the excellent agreement between these two sequences.
 
 Strains from other regions exhibited substantially lower genome fractions, indicating clear sequence divergence from the European lineage. **Only 15 strains showing here in the table (See complete result from Eur.genome_fraction.xlsx).**
 
