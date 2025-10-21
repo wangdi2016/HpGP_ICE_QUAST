@@ -43,9 +43,9 @@ These results highlight the **regional adaptation and evolutionary differentiati
 - **Tool:** QUAST (Quality Assessment Tool for Genome Assemblies)  
 - **Input:** *De novo* assembled, circular, complete genomic sequences from 1012 *H. pylori* genomes  
 - **References:**  
-  - *Hp 26695* (Europe)  
-  - *F16* (East Asia)  
-  - *SouthAfrica20* (Africa2)  
+  - *Hp 26695* (Europe) (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008525.1/) 
+  - *F16* (East Asia) (https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000270005.1/)
+  - *SouthAfrica20* (Africa2) (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000590775.1/) 
 - **Metric Reported:** % Genome fraction aligned to each reference genome  
 
 ---
