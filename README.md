@@ -5,7 +5,7 @@ This repository summarizes the comparative assembly quality assessment of *Helic
 
 The goal of this analysis is to evaluate genome fraction among *H. pylori* strains from different geographic origins, using published representative reference genomes from **Europe**, **East Asia**, and **Africa2**.
 
-For the assembly quality assessment of *de novo* genomic sequences, please check the BUSCO results [https://github.com/HpGP/HpGP-Genome-QC](https://github.com/HpGP/HpGP-Genome-QC) 
+For the assembly quality assessment of *de novo* genomic sequences, please check the BUSCO results [https://github.com/HpGP/HpGP-Genome-QC](https://github.com/HpGP/HpGP-Genome-QC). All 1012 sequences have > 95% completeness score from BUSCO (100% is the max). 
 
 ---
 
