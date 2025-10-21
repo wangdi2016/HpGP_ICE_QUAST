@@ -11,21 +11,21 @@ For the assembly quality assessment of *de novo* genomic sequences, please check
 
 ## Reference Genomes and Comparative Results
 
-### 1. *Hp 26695* (Europe) https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008525.1/
-Using the European reference genome *Hp 26695*, high genome alignment quality was observed mainly among European-origin strains. Our *de novo* assembled Hp 26695 is **100%** in term of genome fraction. Using variant calling pipeline, we only identified ~130 SNPs between the publish Hp 26695 and our HpGP-26695-ATCC (https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_034695665.1/). In addition, only one structural variant obsersved indicating the excellent agreement between these two sequences.
+### 1. *Hp 26695* (Europe)
+Using the European reference genome *Hp 26695* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008525.1/)**, high genome alignment quality was observed mainly among European-origin strains. Our *de novo* assembled Hp 26695 is **100%** in term of genome fraction. Using variant calling pipeline, we only identified ~130 SNPs between the publish Hp 26695 and our HpGP-26695-ATCC **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_034695665.1/)**. In addition, only one structural variant obsersved indicating the excellent agreement between these two sequences.
 
 Strains from other regions exhibited substantially lower genome fractions, indicating clear sequence divergence from the European lineage. **Only 15 strains showing here in the table (See complete result from Eur.genome_fraction.xlsx).**
 
 <img width="471" height="257" alt="image" src="https://github.com/user-attachments/assets/ca1d8b13-5f90-44c0-9f71-8917b50601cd" />
 
-### 2. *F16* (East Asia) https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000270005.1/
-With the East Asian reference *F16*, only strains from East Asia (Japan, China, Korea, Singapore) achieved **>90% genome fraction**, reflecting strong sequence conservation within the East Asian cluster.  
+### 2. *F16* (East Asia)
+With the East Asian reference *F16* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000270005.1/)**, only strains from East Asia (Japan, China, Korea, Singapore) achieved **>90% genome fraction**, reflecting strong sequence conservation within the East Asian cluster.  
 **Only 15 strains showing here in the table (See complete result from EAsia.genome_fraction.xlsx).**
 
 <img width="472" height="257" alt="image" src="https://github.com/user-attachments/assets/61c563bb-fd2b-44a6-9e26-61f3220e6ebd" />
 
-### 3. *SouthAfrica20* (Africa2) https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000590775.1/
-Using the African reference *SouthAfrica20*, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**.  
+### 3. *SouthAfrica20* (Africa2)
+Using the African reference *SouthAfrica20* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000590775.1/)**, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**.  
 
 This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations. **Only 15 strains showing here in the table (See complete result from Africa2.genome_fraction.xlsx).**
 
