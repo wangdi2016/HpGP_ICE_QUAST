@@ -31,6 +31,11 @@ This finding indicates that the Africa2 lineage possess region-specific structur
 
 <img width="474" height="257" alt="image" src="https://github.com/user-attachments/assets/e7854530-7b66-4f2d-ba0d-737d9c2449de" />
 
+### 4. GrafGen Bioconductor package
+For futher identification of the population of new strains, we have developed GrafGen, a R package to address this issue (https://www.bioconductor.org/packages/release/bioc/html/GrafGen.html). The manuscript has been accepted by BMC Bioinformatics. We presented the results in 2024 AACR.
+
+https://aacrjournals.org/cancerres/article/84/6_Supplement/789/736762/Abstract-789-GrafGen-Distance-Based-Inference-of
+
 ---
 
 ## Conclusion
