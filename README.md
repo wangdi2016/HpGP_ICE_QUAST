@@ -29,6 +29,7 @@ Using the public African reference *SouthAfrica20* **(https://www.ncbi.nlm.nih.g
 
 This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations. **Only 15 strains showing here in the table (See complete result from Africa2.genome_fraction.xlsx).**
 
+#### *SouthAfrica20*
 <img width="474" height="257" alt="image" src="https://github.com/user-attachments/assets/e7854530-7b66-4f2d-ba0d-737d9c2449de" />
 
 ### 4. *GrafGen Bioconductor package*
