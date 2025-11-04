@@ -9,6 +9,17 @@ For the assembly quality assessment of *de novo* genomic sequences, please check
 
 ---
 
+## Methods
+- **Tool:** QUAST (Quality Assessment Tool for Genome Assemblies)  
+- **Input:** *De novo* assembled, circular, complete genomic sequences from 1012 *H. pylori* genomes  
+- **References:**  
+  - *Hp 26695* (Europe) (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008525.1/) 
+  - *F16* (East Asia) (https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000270005.1/)
+  - *SouthAfrica20* (Africa2) (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000590775.1/) 
+- **Metric Reported:** % Genome fraction aligned to each reference genome  
+
+---
+
 ## Reference Genomes and Comparative Results
 
 ### 1. *Hp 26695* (Europe)
@@ -43,17 +54,6 @@ For future identification of the population of new strains, we have developed Gr
 ## Conclusion
 Comparative analyses with QUAST demonstrate clear **geographic clustering and sequence divergence** across *H. pylori* populations from Europe, East Asia, and Africa.  
 These results highlight the **regional adaptation and evolutionary differentiation** of genomic sequences, reflecting the co-evolution between *H. pylori* and its human host populations.
-
----
-
-## Methods
-- **Tool:** QUAST (Quality Assessment Tool for Genome Assemblies)  
-- **Input:** *De novo* assembled, circular, complete genomic sequences from 1012 *H. pylori* genomes  
-- **References:**  
-  - *Hp 26695* (Europe) (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008525.1/) 
-  - *F16* (East Asia) (https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000270005.1/)
-  - *SouthAfrica20* (Africa2) (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000590775.1/) 
-- **Metric Reported:** % Genome fraction aligned to each reference genome  
 
 ---
 
