@@ -20,7 +20,42 @@ For the assembly quality assessment of *de novo* genomic sequences, please check
 
 ---
 
-## Reference Genomes and Comparative Results
+## Reference Genomes, HpGP Genomic Sequences and Publications
+
+### F16
+- **Publication:** Mikihiko Kawai *et al.*  
+  *Evolution in an oncogenic bacterial species with extreme genome plasticity: Helicobacter pylori East Asian genomes*  
+  *BMC Microbiology* **11**, Article 104 (2011)  
+- **Database:** GenBank (F16 strain sequence deposited)
+
+---
+
+### SouthAfrica20 and SouthAfrica7
+- **Publication:** Stacy S. Duncan *et al.*  
+  *Genome Sequences of Three hpAfrica2 Strains of Helicobacter pylori*  
+  *Genome Announcements* **1**(5): e00729-13 (2013)  
+  DOI: [10.1128/genomeA.00729-13](https://doi.org/10.1128/genomeA.00729-13)  
+- **Database:** GenBank (SouthAfrica20 strain sequence deposited)
+
+---
+
+### H. pylori 26695
+- **Publication:** Tomb F. *et al.*  
+  *The complete genome sequence of the gastric pathogen Helicobacter pylori*  
+  *Nature* **388**, 539–547 (1997)  
+- **Database:** GenBank (26695 strain sequence deposited)
+
+---
+
+### H. pylori Genome Project (HpGP)
+- **Publication:** Kaisa Thorell *et al.*  
+  *The Helicobacter pylori Genome Project: insights into H. pylori population structure from analysis of a worldwide collection of complete genomes*  
+  *Nature Communications* **14**, 8184 (2023)
+- **Database:** GenBank (1012 HpGP sequence deposited)
+
+---
+
+## QUAST Results
 
 ### 1. *Hp 26695* (Europe)
 Using the European reference genome *Hp 26695* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000008525.1/)**, high genome alignment quality was observed mainly among European-origin strains. Our *de novo* assembled Hp 26695 is **100%** in term of genome fraction. Using variant calling pipeline, we only identified ~130 SNPs between the publish *Hp 26695* and our *HpGP-26695-ATCC* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_034695665.1/)**. In addition, only one structural variant obsersved. Together, it indicates the excellent agreement between these two sequences.
@@ -54,41 +89,6 @@ For future identification of the population of new strains, we have developed Gr
 ## Conclusion
 Comparative analyses with QUAST demonstrate clear **geographic clustering and sequence divergence** across *H. pylori* populations from Europe, East Asia, and Africa.  
 These results highlight the **regional adaptation and evolutionary differentiation** of genomic sequences, reflecting the co-evolution between *H. pylori* and its human host populations.
-
----
-
-## Reference Genomes, HpGP Genomic Sequences and Publications
-
-### F16
-- **Publication:** Mikihiko Kawai *et al.*  
-  *Evolution in an oncogenic bacterial species with extreme genome plasticity: Helicobacter pylori East Asian genomes*  
-  *BMC Microbiology* **11**, Article 104 (2011)  
-- **Database:** GenBank (F16 strain sequence deposited)
-
----
-
-### SouthAfrica20 and SouthAfrica7
-- **Publication:** Stacy S. Duncan *et al.*  
-  *Genome Sequences of Three hpAfrica2 Strains of Helicobacter pylori*  
-  *Genome Announcements* **1**(5): e00729-13 (2013)  
-  DOI: [10.1128/genomeA.00729-13](https://doi.org/10.1128/genomeA.00729-13)  
-- **Database:** GenBank (SouthAfrica20 strain sequence deposited)
-
----
-
-### H. pylori 26695
-- **Publication:** Tomb F. *et al.*  
-  *The complete genome sequence of the gastric pathogen Helicobacter pylori*  
-  *Nature* **388**, 539–547 (1997)  
-- **Database:** GenBank (26695 strain sequence deposited)
-
----
-
-### H. pylori Genome Project (HpGP)
-- **Publication:** Kaisa Thorell *et al.*  
-  *The Helicobacter pylori Genome Project: insights into H. pylori population structure from analysis of a worldwide collection of complete genomes*  
-  *Nature Communications* **14**, 8184 (2023)
-- **Database:** GenBank (1012 HpGP sequence deposited)
 
 ---
 
