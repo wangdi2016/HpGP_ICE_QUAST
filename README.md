@@ -20,7 +20,7 @@ For the assembly quality assessment of *de novo* genomic sequences, please check
 
 ---
 
-## Selected Reference Genomes, and HpGP Genomic Sequences
+## Selected Reference Genomes, and HpGP *de novo* Genomic Sequences
 
 ### F16
 - **Publication:** Mikihiko Kawai *et al.*  
